@@ -1,0 +1,1 @@
+import { composeAPI from '@iota/core'};

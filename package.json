@@ -1,0 +1,20 @@
+{
+  "name": "iota_autonomouscar",
+  "version": "1.0.0",
+  "description": "IOTA Application For Autonomous Electric Vehicle Charging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/converter": "^1.0.0-beta.5",
+    "@iota/core": "^1.0.0-beta.5",
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^3.19.0",
+    "hmkit": "^0.7.2"
+  }
+}
